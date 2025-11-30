@@ -45,9 +45,3 @@ A simple Flappy Bird clone made in Unity 2D using C#. The player controls a smal
 - Add sound effects and background music.
 - Add difficulty scaling (faster pipes, smaller gaps).
 - Add a main menu and high-score system saved between sessions.
-[17](https://www.scribd.com/document/782084096/494-t2)
-[18](https://github.com/othneildrew/Best-README-Template)
-[19](https://github.com/matiassingers/awesome-readme)
-[20](https://github.com/banesullivan/README)
-[21](https://www.makeareadme.com)
-[22](https://www.youtube.com/watch?v=rCt9DatF63I)
